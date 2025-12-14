@@ -2,7 +2,7 @@
 <h3 align="left">🌱 About Me</h3>
 <table border="0" cellspacing="0" cellpadding="0">
 <tr style="border: none;">
-<td valign="top" style="border: none;">
+<td valign="center" style="border: none;">
 <div align="left">
 
 - 💼 Aspiring fullstack web developer
