@@ -4,7 +4,7 @@
 
 <div align="left">
 
-- 💼 Aspiring fullstack developer
+- 💼 Aspiring fullstack web developer
 - 🎓 Final year CS student at Mapúa University
 - 📚 Currently mastering Next.js & React
 - 🎮 Outside coding I like building PC hardware and lately getting into audiophile
