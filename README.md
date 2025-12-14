@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">💻 Languages I Use</h3>
+<h3 align="center">💻 Languages i use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">🛠️ Frameworks & Tools I Use</h3>
+<h3 align="center">🛠️ Frameworks & tools i use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
