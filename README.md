@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm Kurt 👋</h1>
-
 <h3 align="left">🌱 About Me</h3>
-
-<table border="0">
-<tr>
-<td valign="top">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr style="border: none;">
+<td valign="top" style="border: none;">
 <div align="left">
 
 - 💼 Aspiring fullstack web developer
@@ -15,8 +13,8 @@
 
 </div>
 </td>
-<td valign="top" align="center">
-<img src="./assets/coding.gif" width="200" />
+<td valign="center" align="center" style="border: none;">
+<img src="./assets/guy-coding.gif" width="400" />
 </td>
 </tr>
 </table>
@@ -24,7 +22,6 @@
 ---
 
 <h3 align="center">💻 Languages i use</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py&perline=7" />
@@ -34,7 +31,6 @@
 ---
 
 <h3 align="center">🛠️ Frameworks & tools i use</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,nodejs,git,vscode,postman,vercel,mongodb,mysql,npm&perline=6" />
@@ -44,11 +40,9 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurtRumbaua&theme=github_dark" />
 </p>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=KurtRumbaua&theme=dark" />
