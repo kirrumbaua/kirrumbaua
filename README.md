@@ -37,5 +37,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirrumbaua&theme=github_dark" />
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kirrumbaua&theme=ads-juicy-fresh" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kirrumbaua&theme=merko" alt="GitHub Streak" /></a>
 </p>
